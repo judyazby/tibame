@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: tibame
+Version: 0.0.1
+Summary: test
+Author: judyazby
+Author-email: judyazby520@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: summary
+
+# tibame

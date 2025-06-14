@@ -1,0 +1,7 @@
+README.md
+setup.py
+crawler_pwfang/__init__.py
+tibame.egg-info/PKG-INFO
+tibame.egg-info/SOURCES.txt
+tibame.egg-info/dependency_links.txt
+tibame.egg-info/top_level.txt
